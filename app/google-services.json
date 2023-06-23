@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365084416614",
+    "project_id": "myfacedetectionapp-3e980",
+    "storage_bucket": "myfacedetectionapp-3e980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365084416614:android:f95d5a16a58c8176a4aba7",
+        "android_client_info": {
+          "package_name": "com.gulshan.face_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365084416614-14uleocv9ekgfr8hmur37sdoooe472h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVjvptn0c9GVx3qz1MJOIFE200BGIMQuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365084416614-14uleocv9ekgfr8hmur37sdoooe472h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
